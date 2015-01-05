@@ -108,8 +108,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:037650_0000_100F7B5C44F42488"/>
-            <pb facs="tcp:037650_0001_100F7B5DD83AC628"/>
+            <pb facs="unknown:037650_0000_100F7B5C44F42488"/>
+            <pb facs="unknown:037650_0001_100F7B5DD83AC628"/>
             <p>VIEW OF THE RISE AND INCREASE OF THE <hi>CHURCHES,</hi> COMPOSING THE Otſego Baptiſt Aſſociation.</p>
             <p>By A. HOSMER AND J. LAWTON.</p>
             <q>
@@ -122,14 +122,14 @@
             <p>WHITESTOWN: Printed by WARREN BARNARD — 1800 —</p>
          </div>
          <div type="authors_notice">
-            <pb facs="tcp:037650_0002_100F7B625477BF00"/>
+            <pb facs="unknown:037650_0002_100F7B625477BF00"/>
             <head>ADVERTISEMENT.</head>
             <p>If this book ſhould meet with acceptance, the authors propoſe to pro<g ref="char:EOLhyphen"/>ceed in their collections of materials for publiſhing an account of the re<g ref="char:EOLhyphen"/>mainder of the Baptiſt churches in this weſtern country, with other matters now neceſſarily omitted. We do earneſtly requeſt all thoſe that feel diſpoſed to grant us their aſſiſtance, to communicate ſuch materials as they ſhall conceive neceſſary.</p>
          </div>
       </front>
       <body>
          <div type="history_of_church">
-            <pb facs="tcp:037650_0003_100F7B66A6A3C8E0"/>
+            <pb facs="unknown:037650_0003_100F7B66A6A3C8E0"/>
             <head>BUTTERNUTS CHURCH.</head>
             <p>IN the month of June, A. D. 1773. Ebenezer King and Incr<gap reason="illegible" resp="#PDCC" extent="3 letters">
                   <desc>•••</desc>
@@ -200,7 +200,7 @@
             <p>In June 1775, one Jackſon was killed by an Indi<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap> on the Butter<g ref="char:EOLhyphen"/>nut
-<pb n="4" facs="tcp:037650_0004_100F7B6966697B18"/>Creek about two miles from the ſettlement; it was ſuppoſed the Indian murd<gap reason="illegible" resp="#PDCC" extent="2 letters">
+<pb n="4" facs="unknown:037650_0004_100F7B6966697B18"/>Creek about two miles from the ſettlement; it was ſuppoſed the Indian murd<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>ed him for his money.</p>
             <p>In A. D. 1776, the inhabitants began to be diſtreſſed by the war, and had <gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -217,7 +217,7 @@
             <p>In a ſhort time after this the priſoners were releaſed, as there was nothing found againſt them. They immediately removed their fami<g ref="char:EOLhyphen"/>lies back into the old ſettlements. Thus were theſe people driven from their habitations after paſſing through ſcenes of anxiety and diſ<g ref="char:EOLhyphen"/>treſs, which muſt affect the feeling heart with exquiſite ſenſations.</p>
             <p>But through all their diſtreſs and danger, kind providence protected them, ſo that no lives were loſt except Jackſon's aforeſaid. In 1783 Benjamin Lull with his wife and one ſon returned to the ſettlement and lived alone through the winter.</p>
             <p>In 1784, four more families returned. In 1785 they again ſet up religious meetings. About the year 1787, they had preaching part of
-<pb n="5" facs="tcp:037650_0005_100F7B6B66D0D808"/>the time and ſome were baptized by Elder Comſtock who had collect<g ref="char:EOLhyphen"/>ed a ſmall church in Cooper's patent, but he dying ſoon 'after, his church became extinct.</p>
+<pb n="5" facs="unknown:037650_0005_100F7B6B66D0D808"/>the time and ſome were baptized by Elder Comſtock who had collect<g ref="char:EOLhyphen"/>ed a ſmall church in Cooper's patent, but he dying ſoon 'after, his church became extinct.</p>
             <p>In A. D. 1792, Elder Craw from Greenfield viſited them, preach<g ref="char:EOLhyphen"/>ed and baptized two perſons; May 16, 1793 a number of Baptiſt profeſſors met at the houſe of Mr. Joſeph Lull, in Unadilla for con<g ref="char:EOLhyphen"/>ferences after an agreeable interview in which they found a union of ſentiment reſpecting doctrine and diſcipline, they adjourned their meeting.</p>
             <p>June 1793, they again met and after further converſation they read and adopted a covenant, and agreed to call a council.</p>
             <p>Auguſt 28th, 1793 a council conſiſting of the Elder and delegates from Greefield church met, and after inſpecting their doings, gave them fellowſhip as a church in ſiſter relation: Their number was five males, and five females. This church lies ſouthweſterly from Spring<g ref="char:EOLhyphen"/>field about thirty five miles.</p>
@@ -232,7 +232,7 @@
          <div type="history_of_church">
             <head>FIRST CHURCH BURLINGTON.</head>
             <p>ON the 27th of November A. D. 1793, a number of Baptiſt pro<g ref="char:EOLhyphen"/>feſſors<note n="*" place="bottom">This ſettlement, with the adjacent country was then knows by the name of Enadilla, but is ſince divided into four towns.</note>
-               <pb n="6" facs="tcp:037650_0006_100F7B6D09429330"/>
+               <pb n="6" facs="unknown:037650_0006_100F7B6D09429330"/>
                <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> the houſe of Brother E. Leonard in the eaſterly part of Burlington for conference. Part of theſe were members of churches in the old<gap reason="illegible" resp="#PDCC" extent="3 letters">
@@ -263,7 +263,7 @@
          <div type="history_of_church">
             <head>SECOND CHURCH IN BURLINGTON.</head>
             <p>IN the beginning of the year 1794, the inhabitants on Wharton creek, in the town of Burlington, generally attended a meeting of the
-<pb n="7" facs="tcp:037650_0007_100F7B6FF6B5A938"/>
+<pb n="7" facs="unknown:037650_0007_100F7B6FF6B5A938"/>
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ethodiſt order. About the firſt of March 1794. Deacon Martin <gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -281,7 +281,7 @@
          <div type="history_of_church">
             <head>THIRD CHURCH IN BURLINGTON.</head>
             <p>IN March 1793, Jonathan Pettit and Stephen Taylor ſet up a re<g ref="char:EOLhyphen"/>ligious meeting on the Lord's day, in the northweſt part of Burlington, and continued the ſame until December following, when Elder Fur<g ref="char:EOLhyphen"/>man viſited them, baptized two perſons, and adviſed them to attend religious conferences for the purpoſe of obtaining acquaintance and un<g ref="char:EOLhyphen"/>ion in order for coming into church order; accordingly, on the 8th of March 1794, they met in conference and eleven perſons related their experience, gave mutual ſatisfaction and union was obtained. They kept up their conferences until May 11th 1794, when they vo<g ref="char:EOLhyphen"/>ted to call a council, having before covenanted together. A council conſiſting of meſſengers from the following churches, viz. Springfield,
-<pb facs="tcp:037650_0008_100F7B72A7D92430"/>Firſt and Second in Burlington, convened at Brother Timothy Tay<g ref="char:EOLhyphen"/>lor's in Burlington, where after examining their articles and covenant, the council unanimouſly gave them fellowſhip as a church in goſpel order. Their numbers were eleven. This Church lies ſouthweſterly from Springfield diſtant about 30 miles.</p>
+<pb facs="unknown:037650_0008_100F7B72A7D92430"/>Firſt and Second in Burlington, convened at Brother Timothy Tay<g ref="char:EOLhyphen"/>lor's in Burlington, where after examining their articles and covenant, the council unanimouſly gave them fellowſhip as a church in goſpel order. Their numbers were eleven. This Church lies ſouthweſterly from Springfield diſtant about 30 miles.</p>
          </div>
          <div type="history_of_church">
             <head>RICHFIELD <hi>alias</hi> EXETER.</head>
@@ -294,7 +294,7 @@
          <div type="history_of_church">
             <head>SECOND CHURCH OTSEGO.</head>
             <p>IN the year 1791 a number of perſons ſet up a religious meeting, The year following, Elder James Bacon came into the place and began to preach to the people, baptized ſome, and continued with them for
-<pb n="9" facs="tcp:037650_0009_100F7B7583332720"/>the ſpace of two years; and then returned to Connecticut. About this time B'r John Boſtwick began to improve by way of doctrine a<g ref="char:EOLhyphen"/>mong the people. On the 20th of May 1795 they met in conference and deliberated on the propriety of forming a church. On the 4th Wedneſday of June following they again met in conference, and con<g ref="char:EOLhyphen"/>ſulted on the ſubject of church government, and a covenant was agreed to, and they voted to call a council to give them fellowſhip. On the 19th of Auguſt 1795 purſuant to requeſt, a council conſiſting of the following churches, (viz) Springfield and Franklin, convened and gave them fellowſhip as a church in goſpel order. Their num<g ref="char:EOLhyphen"/>ber was 12. This church lies ſouthweſterly from Springfield, diſ<g ref="char:EOLhyphen"/>tant about 20 miles.</p>
+<pb n="9" facs="unknown:037650_0009_100F7B7583332720"/>the ſpace of two years; and then returned to Connecticut. About this time B'r John Boſtwick began to improve by way of doctrine a<g ref="char:EOLhyphen"/>mong the people. On the 20th of May 1795 they met in conference and deliberated on the propriety of forming a church. On the 4th Wedneſday of June following they again met in conference, and con<g ref="char:EOLhyphen"/>ſulted on the ſubject of church government, and a covenant was agreed to, and they voted to call a council to give them fellowſhip. On the 19th of Auguſt 1795 purſuant to requeſt, a council conſiſting of the following churches, (viz) Springfield and Franklin, convened and gave them fellowſhip as a church in goſpel order. Their num<g ref="char:EOLhyphen"/>ber was 12. This church lies ſouthweſterly from Springfield, diſ<g ref="char:EOLhyphen"/>tant about 20 miles.</p>
          </div>
          <div type="history_of_church">
             <head>OTEGO FORMERLY SECOND UNADILLA.</head>
@@ -307,7 +307,7 @@
             <p>IN the year 1789 Elder William Furman removed with his fam<g ref="char:EOLhyphen"/>ily into the town of Springfield, in the county of Otſego, ſtate of New-York. This town lies at the north end of Otſego lake, and a<g ref="char:EOLhyphen"/>bout 15 miles ſouth of Mohawk river; and about 60 miles weſt of Albany. At this time there was no B<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ptiſt church in all this extenſive country. Eld'r Furman was at this time about forty years of age, he is of a middling ſtatute, robuſt conſtitution, fitted to endure hardſhips, naturally of a mild and gentle diſpoſition, affable in converſation, meek and winning in his preaching; ſound in doctrine, in exhortation ex<g ref="char:EOLhyphen"/>cels, his gifts ſeem to be moſtly of the exhortative kind; yet, he is capable of handling a text doctrinally to the ſatisfaction of the lovers
-<pb n="10" facs="tcp:037650_0010_100F7B7829254B70"/>of truth. He is of deep penetration and ſound judgment, which ren<g ref="char:EOLhyphen"/>ders him eminently uſeful in councils. He was the firſt miniſter who was ſettled in this wilderneſs, who was particularly uſeful in planting churches and promoting the riſe of this Aſſociation. Having the glory of God in view, and deſirous of the increaſe of the Redeemer's kingdom, he ſpared no pains, but exerted himſelf to the utmoſt for the accompliſhment of thoſe glorious purpoſes. He may with pro<g ref="char:EOLhyphen"/>priety be ſaid to be the father of theſe churches, God has remarkably bleſſed his labors with abundant ſucceſs. He now rejoices to ſee the happy effects of his unwearied pains in the ſervice of his Lord.</p>
+<pb n="10" facs="unknown:037650_0010_100F7B7829254B70"/>of truth. He is of deep penetration and ſound judgment, which ren<g ref="char:EOLhyphen"/>ders him eminently uſeful in councils. He was the firſt miniſter who was ſettled in this wilderneſs, who was particularly uſeful in planting churches and promoting the riſe of this Aſſociation. Having the glory of God in view, and deſirous of the increaſe of the Redeemer's kingdom, he ſpared no pains, but exerted himſelf to the utmoſt for the accompliſhment of thoſe glorious purpoſes. He may with pro<g ref="char:EOLhyphen"/>priety be ſaid to be the father of theſe churches, God has remarkably bleſſed his labors with abundant ſucceſs. He now rejoices to ſee the happy effects of his unwearied pains in the ſervice of his Lord.</p>
             <p>In the ſpring of the year 1794 he propoſed to the churches to meet in a conference, to conſult the propriety of forming an Aſſociation of theſe churches. Accordingly ſeven churches met by their delegates on the 4th day of September 1794, at the houſe of B'r Wm. Goff, in Burlington. Eld'rs Werden, Cornell and Craw, belonging to the Shaftſbury Aſſociation being preſent, took ſeat with them. After an agreeable conference on the ſubject, they adjourned until the 2nd Thurſday in January, 1795, to meet at the houſe of Paul Gardner, in Burlington.</p>
             <p>January 8th, 1795, the churches again met purſuant to adjourn<g ref="char:EOLhyphen"/>ment, and two more were added. Sentiments of an Aſſociation and the platform thereof were read, and agreed to refer them to the chur<g ref="char:EOLhyphen"/>ches, requeſting them to appoint delegates to meet at the meeting houſe in Springfield, on the 2d day of September next, inveſted with power to decide on the propriety of forming an Aſſociation.</p>
             <p>Adjourned.</p>
@@ -378,7 +378,7 @@
                         <cell>Ehjah Herrick,</cell>
                         <cell>24</cell>
                      </row>
-                     <pb n="11" facs="tcp:037650_0011_100F7B7F34CBC710"/>
+                     <pb n="11" facs="unknown:037650_0011_100F7B7F34CBC710"/>
                      <row>
                         <cell role="label">
                            <hi>Churches.</hi>
@@ -437,7 +437,7 @@
                   </gap> from th<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>
-                  <pb n="12" facs="tcp:037650_0012_100F7B80C372FAF8"/>yearly letters to the Aſſociation, ſo far as we are able.</p>
+                  <pb n="12" facs="unknown:037650_0012_100F7B80C372FAF8"/>yearly letters to the Aſſociation, ſo far as we are able.</p>
             </div>
             <div type="extracts_from_letters">
                <head>Extracts of letters to the Aſſociation for <hi>1795.</hi>
@@ -467,7 +467,7 @@
                <p>
                   <label>Charleſtown.</label> "Small and feeble, recommend themſelves to the prayers of God's people."</p>
                <p>
-                  <pb n="13" facs="tcp:037650_0013_100F7B83043A5238"/>
+                  <pb n="13" facs="unknown:037650_0013_100F7B83043A5238"/>
                   <label>Firſt Norwich.</label> "In a comfortable ſtate."</p>
             </div>
             <div n="2" type="session">
@@ -531,7 +531,7 @@
                <div type="church">
                   <head>AURELIUS.</head>
                   <p>SOME time in the latter end of the ſummer of 1795, Eld'r Da<g ref="char:EOLhyphen"/>vid Iriſh came into this place, and preached to the people, the Lord added his bleſſing; ſo that on the 18th of November the ſame year, ten perſons entered, into church relation. About this time the Lord began to pour out his ſpirit in convicting and converting ſinners in a moſt glorious manner, the ſtout hearted were broken down, while young converts were ſhouting hoſannas to the ſon of David, the hearts of God's people were made to rejoice, and join the bleſſed theme; their little cottages became praying houſes, and the wilder<g ref="char:EOLhyphen"/>neſs that not long ſince was a waſte howling deſert, where ſavages and
-<pb n="14" facs="tcp:037650_0014_100F7B8661961178"/>be<gap reason="illegible" resp="#PDCC" extent="3 letters">
+<pb n="14" facs="unknown:037650_0014_100F7B8661961178"/>be<gap reason="illegible" resp="#PDCC" extent="3 letters">
                         <desc>•••</desc>
                      </gap> of prey were wont to roam, became as pools of living water.—This church lies weſterly from Springfield, diſtant about one hundred miles.</p>
                </div>
@@ -566,7 +566,7 @@
                   <label>Spring<g ref="char:EOLhyphen"/>field.</label> "We remain ſtedfaſt in the doctrine of the Goſpel.— The l<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>d hath bleſſed us with a ſpirit of love and union
-<pb n="15" facs="tcp:037650_0015_100F7B8923042838"/>
+<pb n="15" facs="unknown:037650_0015_100F7B8923042838"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>he year paſt, and ſome additions have been made to the church.</p>
@@ -585,7 +585,7 @@
                <head>Third ſeſſion of the Otſego Aſſociation, bolden at Fairfield on the firſt Wedneſday in September <hi>1797.</hi>
                </head>
                <p>Wedneſday, September 6th, 10 o'clock, A. M. Aſſociation met. Introductory ſermon from John xv, 16, by Eld'r James Bacon. Let<g ref="char:EOLhyphen"/>ters
-<pb n="16" facs="tcp:037650_0016_100F7B8DD747C338"/>from the churches were read and the following account of the ſtate of the churches was taken:</p>
+<pb n="16" facs="unknown:037650_0016_100F7B8DD747C338"/>from the churches were read and the following account of the ſtate of the churches was taken:</p>
                <p>
                   <table>
                      <row>
@@ -636,7 +636,7 @@
                   </p>
                </div>
                <div type="church">
-                  <pb n="17" facs="tcp:037650_0017_100F7B8F83DAA608"/>
+                  <pb n="17" facs="unknown:037650_0017_100F7B8F83DAA608"/>
                   <head>PARIS</head>
                   <p>ABOUT the 20th of March 1796 Elder Eaſtman moved his fam<g ref="char:EOLhyphen"/>ily into Paris, and immediately ſet up a religious meeting. About the beginning of May the ſame year, he, together with baptiſt profeſ<g ref="char:EOLhyphen"/>ſors met in conference for the purpoſe of forming an acquaint<g ref="char:EOLhyphen"/>ance.</p>
                   <p>About the 18th of December the ſame year Elder Eaſtman being gone a journey, Elder Butler came into the place, and preached a ſer<g ref="char:EOLhyphen"/>mon which was accompanied with a divine bleſſing; a conſiderable re<g ref="char:EOLhyphen"/>vival took place and ſixteen ſouls were hopefully converted.</p>
@@ -652,7 +652,7 @@
                   <p>June 14th, 1797, the church in Springfield, 1ſt and 2d Otſego, 2d and 3d in Burlington met in council in Burlington, and after exemin<g ref="char:EOLhyphen"/>ing into their order gave them followſhip as a church in <gap reason="illegible" resp="#PDCC" extent="4 letters">
                         <desc>••••</desc>
                      </gap>ed order,
-<pb n="18" facs="tcp:037650_0018_100F7B925F6E6AD0"/>The council likewiſe gave them fellowſhip in their calling Eld. Hoſ<g ref="char:EOLhyphen"/>mer to the paſtoral charge. Their number was fourteen. This church lies ſouthweſterly from Springfield, diſtant about 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="18" facs="unknown:037650_0018_100F7B925F6E6AD0"/>The council likewiſe gave them fellowſhip in their calling Eld. Hoſ<g ref="char:EOLhyphen"/>mer to the paſtoral charge. Their number was fourteen. This church lies ſouthweſterly from Springfield, diſtant about 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> miles.</p>
                </div>
@@ -679,7 +679,7 @@
                   <p>A. D. 1795 a ſmall number or people pitched on the head waters <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> Chenange, about 100 miles weſt of Albany. They ſoon ſet up a
-<pb n="19" facs="tcp:037650_0019_100F7B9565319370"/>religious meeting. June 24th, 1796 they met in conference at the houſe of B'r Samoel Payne, and gave a relation of their experience to each other: they continued their conference by adjournments <gap reason="illegible" resp="#PDCC" extent="1 word">
+<pb n="19" facs="unknown:037650_0019_100F7B9565319370"/>religious meeting. June 24th, 1796 they met in conference at the houſe of B'r Samoel Payne, and gave a relation of their experience to each other: they continued their conference by adjournments <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> Aug. 19th, 1796, when a council met, and after proper inquiries ad<g ref="char:EOLhyphen"/>viſed them to examine their articles which they had previonſly drawn, and compare them with the articles of other churches, to which reſult they agr<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -740,7 +740,7 @@
                <div type="church">
                   <head>POMPEY.</head>
                   <p>In autumn, 1794, a conſiderable number of baptiſt profeſſors Pompey and Manlius covenanted to ſupport the worſhip of God,
-<pb n="20" facs="tcp:037650_0020_100F7B9A13C3F790"/>his own appointed ways. In 1797 ſeveral perſons were brought <gap reason="illegible" resp="#PDCC" extent="1 word">
+<pb n="20" facs="unknown:037650_0020_100F7B9A13C3F790"/>his own appointed ways. In 1797 ſeveral perſons were brought <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> the knowledge of the truth. In October the ſame year Eld. Holmes from New York baptized ſeven perſons, who were the firſt baptized in this country.</p>
                   <p>In Feb. 1798, a church conſiſting of fifteen members received fel<g ref="char:EOLhyphen"/>lowſhip. This church lies weſt from Springfield diſtant ſeventy miles</p>
@@ -775,7 +775,7 @@
                   </gap>tions views, or <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap> of God's
-<pb n="21" facs="tcp:037650_0021_100F7B9C03BBCF80"/>ordinances or worſhip. The ſouls of our unconverted children &amp; neighbors are at ſtake! God hath in former days, wrought gloriouſly for our help: how un<g ref="char:EOLhyphen"/>reaſonable would it then be, for us to provoke him to take away his preſence from us: our warmeſt wiſhes are for the continuance of the divine preſence with us and you."</p>
+<pb n="21" facs="unknown:037650_0021_100F7B9C03BBCF80"/>ordinances or worſhip. The ſouls of our unconverted children &amp; neighbors are at ſtake! God hath in former days, wrought gloriouſly for our help: how un<g ref="char:EOLhyphen"/>reaſonable would it then be, for us to provoke him to take away his preſence from us: our warmeſt wiſhes are for the continuance of the divine preſence with us and you."</p>
                <p>
                   <label>Springfield.</label> "It hath pleaſed the Lord to continue among us the year paſt, a degree of love and harmony, for which we deſire to be thankful."</p>
                <p>
@@ -810,7 +810,7 @@
                   </gap> of <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>ey has now become a mountain of praiſe to the moſt high God and
-<pb n="22" facs="tcp:037650_0022_100F7BA0551DA7A8"/>that there are ſo many baptiſt churches erected and erecting into an aſſociated body."</p>
+<pb n="22" facs="unknown:037650_0022_100F7BA0551DA7A8"/>that there are ſo many baptiſt churches erected and erecting into an aſſociated body."</p>
                <p>
                   <label>2d. Burlington.</label> It is a matter of grief to ſee religion oppoſed and ridiculed by the world in general, but how much more ought our ſorrow to increaſe when we daily ſee thoſe who are the profeſſed followers of Jeſus lightly eſteem the goſpel inſtitutions, and can eaſily paſs by religious duties. But we have ſome conſolation from God's word, bel<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -866,7 +866,7 @@
                   </table>
                </p>
                <p>
-                  <pb n="23" facs="tcp:037650_0023_100F7BA301BEE258"/>
+                  <pb n="23" facs="unknown:037650_0023_100F7BA301BEE258"/>
 The following churches were cordially received at this ſeſſion, (viz) Brothertown, 2d Hamilton, 3d Norwich, Sangerfield, Schuyler-Short-Lots, and Wor<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>eſter.</p>
@@ -885,7 +885,7 @@ The following churches were cordially received at this ſeſſion, (viz) Brother
                <div type="church">
                   <head>SANGERFIELD.</head>
                   <p>IN the year 1797, a number of perſons in the town of Sangerfield, ſet up a religious meeting on the Lord's day. At this time there were ſome who appeared under awakenings; they continued their meetings through the winter; in the courſe of which there aroſe ſuch oppoſition againſt the baptiſts having any ſhare in the lead of the meeting, that on the 14th of April, 1798, eight perſons met in con<g ref="char:EOLhyphen"/>ference at the houſe of B'r White, and agreed to hold up a meeting in the baptiſt order; the May following four perſons were baptized: at this time there appeared an engagedneſs in the minds of many, and the congregation increaſed, and ſome more were baptized in the ſum<g ref="char:EOLhyphen"/>mer and autumn. Nov. 27th, 1798, they agreed to call a council to give them fellowſhip; and likewiſe agreed to give Eld. Butler a call to ſettle with them. Dec. 19th, 1798 the churches in Fairfield Pal<g ref="char:EOLhyphen"/>atine, Whiteſtown, Paris, Hamilton and Auguſta, convened in coun<g ref="char:EOLhyphen"/>cil, and gave them fellowſhip as a church in ſiſter relation; their num<g ref="char:EOLhyphen"/>ber was ſeventeen. This church lies weſterly from Springfield about 35 miles. A ſmall ſettlement in this vicinity, of about a dozen fam<g ref="char:EOLhyphen"/>ilies,
-<pb n="24" facs="tcp:037650_0024_100F7BA48B688840"/>who were educated in the paedo baptiſt ſentiments, were viſited by the Lord, which induced them to turn their attention to things of a divine nature: the conſequence was that ſeveral of them were con<g ref="char:EOLhyphen"/>verted to God, and all of them (except one or two) to the Baptiſt ſen<g ref="char:EOLhyphen"/>timent; ſeven of whom have joined with this church.</p>
+<pb n="24" facs="unknown:037650_0024_100F7BA48B688840"/>who were educated in the paedo baptiſt ſentiments, were viſited by the Lord, which induced them to turn their attention to things of a divine nature: the conſequence was that ſeveral of them were con<g ref="char:EOLhyphen"/>verted to God, and all of them (except one or two) to the Baptiſt ſen<g ref="char:EOLhyphen"/>timent; ſeven of whom have joined with this church.</p>
                </div>
                <div type="church">
                   <head>SCHUYLER SHORT LOTS.</head>
@@ -914,7 +914,7 @@ The following churches were cordially received at this ſeſſion, (viz) Brother
                </head>
                <p>
                   <label>Butternuts.</label> "It is with great ſatisfaction that we inform you of the goodneſs of God unto us. In September laſt the Lord began his
-<pb n="25" facs="tcp:037650_0025_100F7BA6186EAB50"/>work among us, his power was great and the effects thereof conſpicuous; ſinners were alarmed, ſouls converted, and the people of God rejoiced. Children forſook their toys, the youth their gaudy baubles, the middle aged their undue world<g ref="char:punc">▪</g> purſuit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="25" facs="unknown:037650_0025_100F7BA6186EAB50"/>work among us, his power was great and the effects thereof conſpicuous; ſinners were alarmed, ſouls converted, and the people of God rejoiced. Children forſook their toys, the youth their gaudy baubles, the middle aged their undue world<g ref="char:punc">▪</g> purſuit<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> and the old their long confirmed traditionary habits; and all with united hearts bowed to the ſceptre of prince Emanuel; willingly ſubmitted to his government and came into obedience to his laws, and with joyful hea<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -947,7 +947,7 @@ The following churches were cordially received at this ſeſſion, (viz) Brother
                   </gap> reclaimed, ſinners trembling, and ſome we hope converted. Yet no<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>
-                  <pb n="26" facs="tcp:037650_0026_100F7BA946F48480"/>withſtanding we enjoy ſo many favors, there is a great inattention to duty, for which we have abundant reaſon to be aſhamed, we deſire your prayers for us and your watch care was over us, "let the right<g ref="char:EOLhyphen"/>eous ſmite me it ſhall be a kindneſs, and let him reprove me it ſhall be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="26" facs="unknown:037650_0026_100F7BA946F48480"/>withſtanding we enjoy ſo many favors, there is a great inattention to duty, for which we have abundant reaſon to be aſhamed, we deſire your prayers for us and your watch care was over us, "let the right<g ref="char:EOLhyphen"/>eous ſmite me it ſhall be a kindneſs, and let him reprove me it ſhall be <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>n excellent oil; which <gap reason="illegible" resp="#PDCC" extent="3 letters">
                      <desc>•••</desc>
@@ -1008,7 +1008,7 @@ The following churches were cordially received at this ſeſſion, (viz) Brother
                   <label>Springfield.</label> "We remain ſtedfaſt and unmoved in our ſentiments reſpecting doctrine, which principles as a foundation of our union we are bound in duty with you to ſupport, as being united in the ſame cauſe<g ref="char:punc">▪</g> We are happy to inform you that the Lord hath continued a degree of love and union among us, for which we deſire to praiſe his holy name."</p>
                <p>
                   <label>2d Hamilton.</label> "We eſteem it not only the duty but privilege of God's children to labor for and maintain union and fellowſhip, ſo far
-<pb n="27" facs="tcp:037650_0027_100F7BADE2E91A70"/>
+<pb n="27" facs="unknown:037650_0027_100F7BADE2E91A70"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> an acquaintance may be gained, that they may with one heart and mouth glorify God."</p>
@@ -1031,7 +1031,7 @@ The following churches were cordially received at this ſeſſion, (viz) Brother
                <p>
                   <label>Scipto.</label> "We have had and ſtill enjoy a comfortable union among ourſelves; ſo that we feel ourſelves under renewed obligations to praiſe the name of God. The year paſt the Lord has diſtilled ſome mercy drops on various parts of this town, which we truſt has brought ſome ſinners to the knowledge of the truth, and cauſed the hearts of God's people to rejoice. On that we may praiſe his holy name, and live more to his honor and glory!"</p>
                <p>
-                  <pb n="28" facs="tcp:037650_0028_100F7BB240DD8AD8"/>
+                  <pb n="28" facs="unknown:037650_0028_100F7BB240DD8AD8"/>
                   <label>Paris.</label> "Informing you of our chriſtian welfare which calls for grateful acknowledgements, while we make mention of the goodneſs o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> that being who has hitherto helped us: from whom we have ob<g ref="char:EOLhyphen"/>tained help to continue until now, in the enjoyment of a happy and precious union, with that harmony and peace which is truly comfort<g ref="char:EOLhyphen"/>ing in its infl<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1057,7 +1057,7 @@ The following churches were cordially received at this ſeſſion, (viz) Brother
                   <label>2d Otſego.</label> "We acknowledge the goodneſs of God unto us in pro<g ref="char:EOLhyphen"/>tecting our lives and preſerving us from a diſcordant ſpirit: he hath been pleaſed to make ſome addition to our ſmall body, which we hope is but a prelude to a more copious diſplay of divine grace—there ap<g ref="char:EOLhyphen"/>pears a greater attention in the minds of people in general, and of the brethren in particular, than for ſome time before. We find it neceſ<g ref="char:EOLhyphen"/>ſary to be on our guard a<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ainſt impoſters, who ſwarm in this day of
-<pb n="29" facs="tcp:037650_0029_100F7BB3C9B35278"/>error and deluſion, and are nuiſances to ſociety, ravening wolves in the church of God. From ſuc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="29" facs="unknown:037650_0029_100F7BB3C9B35278"/>error and deluſion, and are nuiſances to ſociety, ravening wolves in the church of God. From ſuc<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>, dear brethren turn away.</p>
                <p>It it neceſſary for us to be on our guard, as our country is new, our ſettlements young, and men of all principles and characters are flock<g ref="char:EOLhyphen"/>ing into them: there is therefore the greateſt danger of the poiſon of falſe principles being d<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1085,7 +1085,7 @@ The following churches were cordially received at this ſeſſion, (viz) Brother
                <div type="church">
                   <head>BROOKFIELD.</head>
                   <p>A NUMBER of baptiſt profeſſors living in the town of Brook<g ref="char:EOLhyphen"/>field
-<pb n="30" facs="tcp:037650_0030_100F7BB8B85422B0"/>met in conference, June 28th, 1798, and continued their con<g ref="char:EOLhyphen"/>ferences until January 26th, 1799, when they voted to conſider themſelves a church. On the ninth of November the ſame year, a council conſiſting of the 2d, 3d and north churches in Burlington, and 2d church in Litc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="30" facs="unknown:037650_0030_100F7BB8B85422B0"/>met in conference, June 28th, 1798, and continued their con<g ref="char:EOLhyphen"/>ferences until January 26th, 1799, when they voted to conſider themſelves a church. On the ninth of November the ſame year, a council conſiſting of the 2d, 3d and north churches in Burlington, and 2d church in Litc<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>field, convened and gave them fellowſhip as a regular goſpel church: their number was twenty. This church lies weſterly from Springfield diſtant about 30 miles.</p>
                </div>
@@ -1110,7 +1110,7 @@ The following churches were cordially received at this ſeſſion, (viz) Brother
                   <p>IN the year 1796, a ſmall revival took place in the ſouth of the church in Norwich, the ſettlement was ſmall; Elder Hoſmer viſited them, preached, and baptized a number.</p>
                </div>
                <div type="church">
-                  <pb n="31" facs="tcp:037650_0031_100F7BBBC0115D50"/>
+                  <pb n="31" facs="unknown:037650_0031_100F7BBBC0115D50"/>
                   <head>RICHFIELD, NOW EXETER.</head>
                   <p>IN the month of May 1797, the Lord began to pour out his ſpirit in this <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -1138,7 +1138,7 @@ The following churches were cordially received at this ſeſſion, (viz) Brother
                <div type="church">
                   <head>BUTTERNUTS.</head>
                   <p>ON the 17th of January 1798, B'r John Lawton moved into the town of Butternuts, in conſequence of a requeſt of the baptiſt church there: the church at that time was few in number: a good degree of harmony prevailing a<g ref="char:EOLhyphen"/>mong them at this time: but not ſo great an engagedneſs in religion as could be wiſhed; and a great neglect of the duties of religion was prevalent among them; but ſtill there were ſome deſires for more engagedneſs in the cauſe of truth. Early in the ſpring there was ſome ſeriouſneſs apparent on the minds ſome of the youth, but it was ſoon gone: However the truth made ſome im<g ref="char:EOLhyphen"/>preſſions, the minds of profeſſors ſeemed to be more and more impreſſed with the neceſſity of attending to religious duties: and deſires were encreaſed for the out-pouring of the holy ſpirit. Thus it continued until Lords day Auguſt 26th 1798, when one was excluded the church privileges, for immoral conduct. This was a ſolemn ſcene, it being the firſt caſe of that nature in the church. The members were deeply affected, and the audience in general appeared ſol<g ref="char:EOLhyphen"/>emn and attentive: about this time information was received of the reforma<g ref="char:EOLhyphen"/>tion on the Otego creek. Lords day, September 26th 1798, was a ſolemn day; in the meeting, the power of the Lord ſeemed to be preſent; and a num<g ref="char:EOLhyphen"/>ber of youth and other perſons ſeemed to be greatly alarmed, while the people of God much encouraged. About this time a young woman gave a relation of
-<pb n="32" facs="tcp:037650_0032_100F7BBEB6D32BE8"/>the work of God on her ſoul, and was received for Baptiſm. Several perſons were now under deep exerciſes of mind. October 10th, Elder Hoſmer preached a ſermon from I. Peter 111, 12. and baptized four perſons. This was a ſolemn time, the arm of the Lord was revealed, and the glory of God diſplayed: the tongues of God's children were looſed, and their ſouls were filled with joy and gladneſs: while ſinners were expreſſing their concern with many tears and ſigns, fobs and groans were heard on every ſide: but notwith<g ref="char:EOLhyphen"/>ſtanding the powerful operators many were paſſing under, yet there was no appearance of any wild enthuſiaſtic zeal: But a national concern agitated the minds of ſinners, while the children of God ſeemed to rejoice from having r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="32" facs="unknown:037650_0032_100F7BBEB6D32BE8"/>the work of God on her ſoul, and was received for Baptiſm. Several perſons were now under deep exerciſes of mind. October 10th, Elder Hoſmer preached a ſermon from I. Peter 111, 12. and baptized four perſons. This was a ſolemn time, the arm of the Lord was revealed, and the glory of God diſplayed: the tongues of God's children were looſed, and their ſouls were filled with joy and gladneſs: while ſinners were expreſſing their concern with many tears and ſigns, fobs and groans were heard on every ſide: but notwith<g ref="char:EOLhyphen"/>ſtanding the powerful operators many were paſſing under, yet there was no appearance of any wild enthuſiaſtic zeal: But a national concern agitated the minds of ſinners, while the children of God ſeemed to rejoice from having r<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ght apprehenſions of the truth; order and regu<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -1193,7 +1193,7 @@ The following churches were cordially received at this ſeſſion, (viz) Brother
                      <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>
-                     <pb n="33" facs="tcp:037650_0033_100F7BC047FC47F0"/>
+                     <pb n="33" facs="unknown:037650_0033_100F7BC047FC47F0"/>
                      <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> them and preach, he complied, turned aſide and preached a lecture in the afternoon, and in the evening attended a conference which was continued till almoſt day br<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -1258,7 +1258,7 @@ The following churches were cordially received at this ſeſſion, (viz) Brother
                   </gap> of grace. The buſineſs was performed on a ſtage in the open air, in the preſence of a large concourſe of people, who behaved with decency and candor.</p>
             </div>
             <div type="list_of_churches">
-               <pb n="34" facs="tcp:037650_0034_100F7BC2AB9FC920"/>
+               <pb n="34" facs="unknown:037650_0034_100F7BC2AB9FC920"/>
                <head>A Liſt of the Churches compoſing the Otſego Aſſociation.</head>
                <p>
                   <table>
@@ -1952,7 +1952,7 @@ The following churches were cordially received at this ſeſſion, (viz) Brother
             </div>
          </div>
          <div type="general_remarks">
-            <pb n="35" facs="tcp:037650_0035_100F7BC6229879D0"/>
+            <pb n="35" facs="unknown:037650_0035_100F7BC6229879D0"/>
             <head>SOME GENERAL REMARKS.</head>
             <p>WE have been particular in noting the day when the churches were formed, and by whom they were received into fellowſhip, that we may give the reader ſome idea of their circumſtances in the in<g ref="char:EOLhyphen"/>fant ſtate of the country, and when there were but ſew in habitants to what there is now. The ſettlements were very ſmall and ſcattered o<g ref="char:EOLhyphen"/>ver a great extent of country: many of the firſt ſettlers were the pro<g ref="char:EOLhyphen"/>feſſed children of God, but in general they became backſliders: the difficulties of ſettling a new and uncultivated country, the hardſhips they endured, and the want of opportunities to attend on religious meetings, may be aſſigned as part of the reaſons for this declenſion. God permitted them in ſome meaſure to overcome the ſtubbornneſs of the country, and then was pleaſed to recall the wan<g ref="char:EOLhyphen"/>dering of their minds. The reformations began with thoſe backſli<g ref="char:EOLhyphen"/>ders, and was attended with power on the hearts of thoſe that knew not God; and yet the village perhaps ſo ſmall that all might meet in a ſmall log houſe, and if the ſhower extended further, a log barn or an adjacent wood formed their place of worſhip.</p>
             <p>Our brethren in the old towns and cities have ſept abroad accounts of the wonderful work of God among them, but if we take a com<g ref="char:EOLhyphen"/>parative view of the numbers, if ten in our ſmall villages are brought to the knowledge of the truth, it is more in proportion than an hun<g ref="char:EOLhyphen"/>dred in ſome of thoſe places: but in ſome places, where the ſettle<g ref="char:EOLhyphen"/>ments have been of earlier date, it has been ſurpriſing to ſee the num<g ref="char:EOLhyphen"/>bers collected, inſtances have been known of two or three hundred people convening at a weekly lecture. None of theſe churches are of longer ſtanding than about ſeven years (excepting Springfield church,) which time is ſhort for the extraordinary increaſe, which is about four times the number ſince the aſſociation formed, which is a<g ref="char:EOLhyphen"/>bout five years. There are yet a number of churches in Onondaga and Ontario counties which have formed a conference among them<g ref="char:EOLhyphen"/>ſelves, concerning which we have been able to obtain little or no in<g ref="char:EOLhyphen"/>formation; a number of reformations have taken place there under the preaching of our fellow laborer Elder David Iriſh an account of which we cannot obtain before this goes to the preſs.</p>
@@ -1983,7 +1983,7 @@ The following churches were cordially received at this ſeſſion, (viz) Brother
                   <desc>••</desc>
                </gap>n<g ref="char:EOLhyphen"/>ed on the churches at their formation, and made an article in their covenant, and that every head of a family ſhould ſet up the worſhip of God, dy vocal prayer in their houſes.</p>
             <p>
-               <pb n="36" facs="tcp:037650_0036_100F7BC90874F290"/>
+               <pb n="36" facs="unknown:037650_0036_100F7BC90874F290"/>
 There were but five ordained miniſters when the aſſociation <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> formed, and no two of them nigher together than twenty five <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -2047,7 +2047,7 @@ There were but five ordained miniſters when the aſſociation <gap reason="ille
                <gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>ipped
-<pb n="37" facs="tcp:037650_0037_100F7BCD8EFC1710"/>in truth and ſincerity. Theſe obſervations will in <gap reason="illegible" resp="#PDCC" extent="1 span">
+<pb n="37" facs="unknown:037650_0037_100F7BCD8EFC1710"/>in truth and ſincerity. Theſe obſervations will in <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> 
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2092,7 +2092,7 @@ There were but five ordained miniſters when the aſſociation <gap reason="ille
                   <desc>••</desc>
                </gap>
                <g ref="char:EOLhyphen"/>ritory
-<pb n="38" facs="tcp:037650_0038_100F7BCF728FC960"/>ſhould ſuddenly emerge from a ſtate of uncultivation, and pre<g ref="char:EOLhyphen"/>
+<pb n="38" facs="unknown:037650_0038_100F7BCF728FC960"/>ſhould ſuddenly emerge from a ſtate of uncultivation, and pre<g ref="char:EOLhyphen"/>
                <gap reason="illegible" resp="#PDCC" extent="3 letters">
                   <desc>•••</desc>
                </gap> to view its golden fields and ſpacious meads which promiſe a rich <gap reason="illegible" resp="#PDCC" extent="3 letters">
